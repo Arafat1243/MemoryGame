@@ -1,0 +1,33 @@
+[{
+        "name": "city",
+        "class": "fa-city"
+    },
+    {
+        "name": "coffee",
+        "class": "fa-coffee"
+    },
+    {
+        "name": "compass",
+        "class": "fa-compass"
+    },
+    {
+        "name": "cookie",
+        "class": "fa-cookie"
+    },
+    {
+        "name": "database",
+        "class": "fa-database"
+    },
+    {
+        "name": "address",
+        "class": "fa-address-book"
+    },
+    {
+        "name": "adjust",
+        "class": "fa-adjust"
+    },
+    {
+        "name": "atom",
+        "class": "fa-atom"
+    }
+]
